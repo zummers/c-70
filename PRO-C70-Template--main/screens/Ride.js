@@ -87,7 +87,7 @@ export default class RideScreen extends Component {
               style={styles.scanbutton}
 
              // onPress={this.getCameraPermissions()}
-             // onPress={() => this.getCameraPermissions()}
+              onPress={() => this.getCameraPermissions()}
              // onPress={() => this.getCameraPermissions}
              // onPress=() => this.getCameraPermissions()
 
